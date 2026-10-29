@@ -6,6 +6,8 @@
 
 <body>
 
+<h1>CP6 - RM561439 - versao 1</h1>
+
 Which one will it be for you today?<br/>
 <a href="#" onclick="playRoshambo('rock')"> rock </a>
 <a href="#" onclick="playRoshambo('paper')"> paper </a>
